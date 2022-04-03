@@ -18,7 +18,7 @@ public class Main {
                 case 'C' -> output.append('G');
             }
         }
-        System.out.println(output);
+        System.out.println(output.reverse());
     }
 
 }
